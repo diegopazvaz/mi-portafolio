@@ -58,7 +58,7 @@ El modelo puede ser descargado desde: https://learn.microsoft.com/es-es/dax/dax-
 
 💡 Acciones sugeridas: fidelización de clientes, campañas B2B para distribuidores, potenciar e-commerce y aprovechar picos estacionales
 
-⚡ Tecnologías
+## ⚡ Tecnologías
 
 * Power BI: dashboards interactivos y visualizaciones
 
