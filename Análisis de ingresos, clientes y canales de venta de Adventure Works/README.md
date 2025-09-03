@@ -87,4 +87,5 @@ LinkedIn: www.linkedin.com/in/diegopazvaz
 ## 💼 Contratación
 
 Actualmente estoy buscando una oportunidad laboral como Científico de datos Jr. o Analista de datos Jr.
+
 Correo de contacto: diegopvaz10@gmail.com
