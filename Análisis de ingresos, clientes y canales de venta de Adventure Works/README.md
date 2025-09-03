@@ -77,3 +77,13 @@ Este proyecto demuestra mi capacidad para:
 * Aplicar Power BI y DAX para análisis avanzado de datos
 
 * Preparar insights orientados a marketing y toma de decisiones de negocio
+
+## 👤 Autor
+
+Diego Paz. 
+LinkedIn: www.linkedin.com/in/diegopazvaz
+
+## 💼 Contratación
+
+Actualmente estoy buscando una oportunidad laboral como Científico de datos Jr. o Analista de datos Jr.
+Correo de contacto: diegopvaz10@gmail.com
