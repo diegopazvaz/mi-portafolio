@@ -60,11 +60,11 @@ El modelo puede ser descargado desde: https://learn.microsoft.com/es-es/dax/dax-
 
 ⚡ Tecnologías
 
-Power BI: dashboards interactivos y visualizaciones
+* Power BI: dashboards interactivos y visualizaciones
 
-DAX: medidas y columnas calculadas
+* DAX: medidas y columnas calculadas
 
-Storytelling con datos para decisiones estratégicas
+* Storytelling con datos para decisiones estratégicas
 
 ## 🎯 Propósito
 
