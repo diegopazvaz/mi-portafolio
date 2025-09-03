@@ -80,7 +80,8 @@ Este proyecto demuestra mi capacidad para:
 
 ## 👤 Autor
 
-Diego Paz. 
+Diego Paz.
+
 LinkedIn: www.linkedin.com/in/diegopazvaz
 
 ## 💼 Contratación
